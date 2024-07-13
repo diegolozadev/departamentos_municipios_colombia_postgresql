@@ -1,1 +1,1 @@
-Inicion
+Inicio
